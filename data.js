@@ -1,6 +1,11 @@
 export const BOOKS_PER_PAGE = 36;
 
+<<<<<<< HEAD
 export const authors = {
+=======
+
+ export const authors = {
+>>>>>>> 3e51e4baf92bc47267539c9943389b9e8211bedd
   "194e164b-9365-4358-b44a-f28a93cc528f": "Steven D. Levitt",
   "76e8065c-fd7a-4a8b-a8ea-6105a47d0781": "Stephen J. Dubner",
   "6b092ae7-283c-45db-80f1-f0cc7e0d4921": "Bill Bryson",
@@ -161,7 +166,11 @@ export const genres = {
   "64c4197d-5f8e-4bff-b440-6d19bc591fd9": "Magic"
 }
 
+<<<<<<< HEAD
 export const books = [
+=======
+ export const books = [
+>>>>>>> 3e51e4baf92bc47267539c9943389b9e8211bedd
   {
     "id": "760b3450-9c86-42d0-8eff-e793bf823756",
     "genres": [
@@ -25411,5 +25420,9 @@ export const books = [
   }
 ]
 
+<<<<<<< HEAD
 export let page = 1;
 export let matches = books;
+=======
+
+>>>>>>> 3e51e4baf92bc47267539c9943389b9e8211bedd
